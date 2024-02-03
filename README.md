@@ -1,6 +1,6 @@
 # wallapaper
 
-#### Question related kali linux among new user is common. Some user wants old kali wallapaper such as:-
+#### Install all wallpapers of kali:-
 
 * kali offensive security wallpapers.
 * kali blackhat wallpapers.
@@ -10,6 +10,6 @@
 ```bash
 sudo apt-get install kali-wallpaper*
 ```
-## If u want to add you own to kali kde wallpaper folder:-
-
-```sudo mv 'your wallapaper path' /usr/share/background/kali```
+```bash
+sudo apt-get install commun*
+```
